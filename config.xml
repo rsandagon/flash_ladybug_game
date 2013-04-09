@@ -1,0 +1,37 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<LevelItems>
+	<configuration
+		instruction="Kiss as many love bugs as you can in a short period of time.. This comment can be edited in the xml, along with the number of levels, number of enemies, number of passing marks, and time of completing the game..."
+		pass_comment="Congratulations Casanova! you truly are a love bug! I hope you buy this game..you can edit this in the xml also. Wow! Please watch out for my other games as well!"
+		fail_comment="Sorry bug! You're all out of love...err..time. Be sure to edit the xml to configure the game! Please buy my other games as well"	
+	/>
+	
+	<level>
+		<image>images/bg1.jpg</image>
+		<enemy>10</enemy>
+		<passing>5</passing>
+		<time>30</time>
+	</level>
+	
+	<level>
+		<image>images/bg2.jpg</image>
+		<enemy>20</enemy>
+		<passing>6</passing>
+		<time>25</time>
+	</level>
+	
+	<level>
+		<image>images/bg3.jpg</image>
+		<enemy>20</enemy>
+		<passing>10</passing>
+		<time>20</time>
+	</level>	
+
+	<level>
+		<image>images/bg1.jpg</image>
+		<enemy>20</enemy>
+		<passing>15</passing>
+		<time>10</time>
+	</level>
+	
+</LevelItems>
